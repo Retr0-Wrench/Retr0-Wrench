@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Retr0-Wrench
 - 👀 I’m interested in cyberscurity and becomming a programmer
-- 🌱 I’m currently learning CISSP
+- 🌱 I’m currently learning ethical programming 
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
